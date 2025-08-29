@@ -1,0 +1,14 @@
+{
+  "name": "fifthqtr-healthmate-assistant",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "setup": "node scripts/setup.mjs",
+    "test": "node scripts/test-run.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.55.0"
+  }
+}
